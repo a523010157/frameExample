@@ -9,4 +9,6 @@ public class FrameexampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FrameexampleApplication.class, args);
 	}
+
+
 }
